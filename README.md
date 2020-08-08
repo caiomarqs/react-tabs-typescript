@@ -2,11 +2,11 @@
 
 This is a demo of  Tabs with childs container dynamically loaded.
 
-![demovideo](https://i.imgur.com/4WrHpaW.gif)
+![demovideo](https://github.com/caiomarqs/caiomarqs/blob/master/imgs/reactabs.gif)
 
 # Using
 
-In `app.jsx` had an example of using tabs
+In `app.tsx` had an example of using tabs
 
 ```jsx
 import { Tabs, TabContainer } from './components/Tabs'
