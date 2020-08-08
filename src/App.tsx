@@ -7,11 +7,14 @@ const App = () => {
     <>
       <h1>Tabs Demo</h1>
       <Tabs>
-        <TabContainer label='Felicidade'>
-          <h1>UFA</h1>
+        <TabContainer label='Tab1'>
+          <h3>Tab1</h3>
         </TabContainer>
-        <TabContainer label='Alegria'>
-          <h1>Só alegria</h1>
+        <TabContainer label='Tab2'>
+          <h3>Tab2</h3>
+        </TabContainer>
+        <TabContainer label='Tab3'>
+          <h3>Tab3</h3>
         </TabContainer>
       </Tabs>
     </>
